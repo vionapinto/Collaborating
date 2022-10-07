@@ -1,2 +1,1 @@
-This is Vionas Bio.
-Viona is a specialist in math.
+Yeah, Viona is cool!
